@@ -13,7 +13,7 @@ h2 {color: #8B0000;}
 #area-principal{width: 800px; margin: 110px auto 10px auto;}
 
 
-#menu{padding-top: 40px; float: right; height: 45px;}
+#menu{float: right;}
 #logo{float: left;}
 
 #postagem{background: #4682B4; padding: 10px; margin-bottom: 30px;}
